@@ -1,4 +1,4 @@
-# This project identifies implicit (hidden) aspects of various products from the product reviews in order to improve the overall approach of Aspect Based Sentiment Analysis.
+# This project identifies implicit (hidden) aspects of various products from the product reviews in order to improve the overall approach of Aspect Based Sentiment Analysis using deep learning and NLP techniques
 It uses the frequency of corpus adjectives and their word2vec embeddings to identify implicit aspects.
 It uses Multinomial Naive Bayes classifier for classifying implicit aspects.
 Python (Jupyter Notebook) and its various libraries such as NLTK, pandas, NumPy, Scikit-learn were used to implement the proposed model.
